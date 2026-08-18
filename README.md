@@ -1,6 +1,6 @@
 # Volatility3 Linux Plugins
 
-Custom Volatility3 Linux helper plugins for CTF and memory forensics workflows.
+Custom Volatility3 Linux helper plugins for memory forensics .
 
 ## Plugins
 
